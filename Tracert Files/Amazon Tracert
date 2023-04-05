@@ -1,0 +1,20 @@
+
+Tracing route to d3ag4hukkh62yn.cloudfront.net [18.172.169.208]
+over a maximum of 30 hops:
+
+  1     5 ms     3 ms     2 ms  irb--2523.uwir-ads-1.infra.washington.edu [10.18.0.2] 
+  2    11 ms     2 ms     2 ms  irb--50.uwcr-atg-1.infra.washington.edu [10.132.5.73] 
+  3     4 ms     2 ms     1 ms  ae4--1009.uwcr-atg-1.infra.washington.edu [10.132.5.75] 
+  4     4 ms     3 ms     3 ms  wi_nat_int.uwcf-atg-2.infra.washington.edu [10.132.255.21] 
+  5     6 ms     2 ms     2 ms  et-8-0-0--4080.uwcr-atg-1.infra.washington.edu [10.132.255.22] 
+  6     3 ms     8 ms     4 ms  ae20--4011.icar-sttl1-3.infra.pnw-gigapop.net [209.124.190.134] 
+  7     6 ms     2 ms     2 ms  amzn-ca-804.infra.pnw-gigapop.net [209.124.181.245] 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     5 ms     5 ms     2 ms  15.230.247.1 
+ 14     2 ms    12 ms     1 ms  server-18-172-169-208.sea73.r.cloudfront.net [18.172.169.208] 
+
+Trace complete.
