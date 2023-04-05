@@ -1,0 +1,14 @@
+
+Pinging e13678.dscb.akamaiedge.net [104.71.133.251] with 32 bytes of data:
+Reply from 104.71.133.251: bytes=32 time=2ms TTL=57
+Reply from 104.71.133.251: bytes=32 time=4ms TTL=57
+Reply from 104.71.133.251: bytes=32 time=2ms TTL=57
+Reply from 104.71.133.251: bytes=32 time=5ms TTL=57
+Reply from 104.71.133.251: bytes=32 time=3ms TTL=57
+Reply from 104.71.133.251: bytes=32 time=15ms TTL=57
+Reply from 104.71.133.251: bytes=32 time=3ms TTL=57
+
+Ping statistics for 104.71.133.251:
+    Packets: Sent = 7, Received = 7, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 15ms, Average = 4ms

@@ -1,0 +1,14 @@
+
+Pinging e15316.dsca.akamaiedge.net [104.71.134.32] with 32 bytes of data:
+Reply from 104.71.134.32: bytes=32 time=2ms TTL=56
+Reply from 104.71.134.32: bytes=32 time=3ms TTL=56
+Reply from 104.71.134.32: bytes=32 time=15ms TTL=56
+Reply from 104.71.134.32: bytes=32 time=2ms TTL=56
+Reply from 104.71.134.32: bytes=32 time=6ms TTL=56
+Reply from 104.71.134.32: bytes=32 time=5ms TTL=56
+Reply from 104.71.134.32: bytes=32 time=4ms TTL=56
+
+Ping statistics for 104.71.134.32:
+    Packets: Sent = 7, Received = 7, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 15ms, Average = 5ms
